@@ -1,0 +1,14 @@
+/* *{text-align: center;} */
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  width: 500px;;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+fieldset {
+  width: 400px;
+}
